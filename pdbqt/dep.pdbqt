@@ -1,7 +1,6 @@
 REMARK SMILES CCO[PH](=O)OCC
 REMARK SMILES IDX 5 1 4 2 3 4 2 5 1 6 6 7 7 8 8 9
 REMARK H PARENT 4 3
-REMARK Flexibility Score: inf
 ROOT
 ATOM      1  O   UNL     1       1.533  -1.418  -3.634  1.00  0.00    -0.263 OA
 ATOM      2  P   UNL     1       2.331  -1.180  -2.378  1.00  0.00     0.319 P 
